@@ -9,9 +9,11 @@ class App extends Component {
     return (
       <div className="container" >
           <div className="tab-panel">
-            <div className="form-content">
-              <button className="button-panel button-next" />
-            </div>
+          </div>
+          <div className="form-content">
+          </div>
+          <div className="button-panel">
+            <button className="button-panel button-next" />
           </div>
       </div>
     );
